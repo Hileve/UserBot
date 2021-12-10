@@ -108,7 +108,7 @@ is not responsible for the usage purpose and method of the users.
 Repl.it is less stable. Try Termux instead for qrcode generation.
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/farhan-dqz/privatebot.git:/)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Hileve/UserBot.git:/)
 
 ### The Hard Method(Not Supported for this version!!)
 ```js
